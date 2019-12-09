@@ -100,8 +100,8 @@
   </issueManagement>
   <scm>
     <url>https://github.com/khasunuma/java-quickstart-archetype</url>
-    <connection>scm:git:https://github.com:khasunuma/java-quickstart-archetype.git</connection>
-    <developerConnection>scm:git:https://github.com:khasunuma/java-quickstart-archetype.git</developerConnection>
+    <connection>scm:git:https://github.com/khasunuma/java-quickstart-archetype.git</connection>
+    <developerConnection>scm:git:https://github.com/khasunuma/java-quickstart-archetype.git</developerConnection>
   </scm>
   <distributionManagement>
     <repository>
