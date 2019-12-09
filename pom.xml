@@ -110,12 +110,10 @@
       <uniqueVersion>false</uniqueVersion>
       <url>https://oss.sonatype.org/service/local/staging/deploy/maven2</url>
     </repository>
-    <!--
     <snapshotRepository>
-      <id>sonatype-nexus-snapshot</id>
+      <id>poortoys-nexus</id>
       <uniqueVersion>false</uniqueVersion>
-      <url>https://oss.sonatype.org/content/repositories/snapshots</url>
+      <url>http://charon.poortoys.com:8081/nexus/content/repositories/snapshots</url>
     </snapshotRepository>
-    -->
   </distributionManagement>
 </project>
