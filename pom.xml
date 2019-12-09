@@ -72,7 +72,7 @@
   <inceptionYear>2019</inceptionYear>
   <licenses>
     <license>
-      <name>BSD 2-Clause "Simplified" License</name>
+      <name>MIT License</name>
       <url>https://github.com/khasunuma/jakartaee-quickstart-archetype/blob/master/LICENSE</url>
       <distribution>repo</distribution>
     </license>
